@@ -100,6 +100,7 @@ No necessary
 ## Features
 - Implementing Job Scheduler with Quartz
 - Authorization with JWT token
+- Implementing Coroutines
 ## Dependency installed
 | Package                                     | Description |
 |---------------------------------------------|-------------|
