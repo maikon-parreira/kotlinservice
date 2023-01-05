@@ -1,4 +1,4 @@
-package com.github.mknparreira.kotlinservice
+package com.github.kotlinservice
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

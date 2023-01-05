@@ -1,4 +1,4 @@
-package com.github.mknparreira.kotlinservice
+package com.github.kotlinservice
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

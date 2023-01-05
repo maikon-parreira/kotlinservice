@@ -1,0 +1,20 @@
+server:
+  port: 3000
+  error:
+    include-message: always
+spring:
+  data:
+    rest:
+      basePath: /api/kotlin-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kotlinservice
+    username: postgres
+    password: postgres
+    generate-ddl: true
+    driver:
+      class-name: org.postgresql.Driver
+logging:
+  level:
+    root: ERROR
+    com.talkdesk.helpdeskreports : DEBUG
+    org.springframework.web: ERROR
